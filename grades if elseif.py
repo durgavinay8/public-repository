@@ -11,7 +11,7 @@ if(p>=90):
 elif(p>=80):
     print("you have secured B grade")
 elif(p>=70):
-    print("you have secured C grade")
+  
 elif(p>=60):
     print("you have secured D grade")
 elif(p>=40):
